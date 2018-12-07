@@ -1,0 +1,10 @@
+﻿  CaptureDemo.cpp
+c:\users\jianhua\downloads\uvccapturedemo-master\capturedemo\capturedemo.cpp(176): warning C4101: “unKnown”: 未引用的局部变量
+c:\users\jianhua\downloads\uvccapturedemo-master\capturedemo\capturedemo.cpp(223): warning C4101: “p”: 未引用的局部变量
+c:\users\jianhua\downloads\uvccapturedemo-master\capturedemo\capturedemo.cpp(433): warning C4101: “mt”: 未引用的局部变量
+  正在生成代码
+  2 of 195 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CaptureDemo.vcxproj -> C:\Users\jianhua\Downloads\UVCCaptureDemo-master\Release\CaptureDemo.exe
