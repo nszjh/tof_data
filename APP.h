@@ -11,12 +11,7 @@
 
 #include <thread>
 #include <vector>
-#include <pcl/point_types.h>
-#include <pcl/common/projection_matrix.h>//pcl::PointCloud
 
-#include <opencv2/opencv.hpp>
-#include "opencv2/imgproc/imgproc.hpp"
-#include "DGrabber.h"
 
 //应用
 class App

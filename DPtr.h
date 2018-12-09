@@ -7,6 +7,8 @@
  */
 #ifndef  DPTR_H
 #define  DPTR_H
+#include <memory>
+#include <functional>
 
 template <typename T>
 using DPtr = std::shared_ptr<T>;
